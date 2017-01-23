@@ -32,7 +32,7 @@ exports.seed = function(knex, Promise) {
         type: 'sprints',
         duration: 10,
         user_id: 2,
-      }, ];
+      }];
       return knex('exercise').insert(exercises);
     });
 };
