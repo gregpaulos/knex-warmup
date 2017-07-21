@@ -12,15 +12,6 @@ Includes seeds
 * Deletes a record with DELETE /things/:id
 
 
-
-
-
-
-
-
-
-
-
 ## CRUD?
 
 * CREATE => POST route
